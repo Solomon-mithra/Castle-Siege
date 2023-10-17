@@ -4,11 +4,12 @@
 
 Welcome to the game! Your objective is to find the 💎 treasure and defeat the 👾 goblins to enter the 🏰 Castle!
 
-![alt text](startMenu.png)
+![Start Menu](startMenu.png)
 
-
-Task:
+##Task:
 Collect 3 Crystals & Defeat 1 Goblin
+
+![Game Play](gamePlay.png)
 
 ## Instructions
 
