@@ -1,8 +1,11 @@
-# Game (in C++)
+# Castle Siege (in C++)
 
 ## Objective
 
 Welcome to the game! Your objective is to find the 💎 treasure and defeat the 👾 goblins to enter the 🏰 Castle!
+
+![alt text](startMenu.png)
+
 
 Task:
 Collect 3 Crystals & Defeat 1 Goblin
